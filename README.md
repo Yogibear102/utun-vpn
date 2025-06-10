@@ -16,4 +16,3 @@ Run the client:
 Files
 client.py — The VPN client source code.
 pyvenv.cfg — Python virtual environment configuration.
-Note: This is a minimal example for educational purposes. For real-world use, add authentication, encryption, and error handling.
